@@ -22,7 +22,7 @@ RedConnect helps healthcare staff manage donors, track blood stock levels, and m
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 ### **Languages & Technologies**
 - Java Servlet & JSP
 - MVC Architecture
