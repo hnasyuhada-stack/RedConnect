@@ -40,5 +40,3 @@ RedConnect helps healthcare staff manage donors, track blood stock levels, and m
 - Ant (build.xml)
 
 ---
-
-## 📁 Project Structure
